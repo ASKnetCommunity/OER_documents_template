@@ -53,7 +53,10 @@ For further information about GitHub visit: [ASKnet GitHub Guidance](https://ask
      ```
      ![describing text for your image](/images/file_name.jpg)
      ```
-     This code gives your image a descirbing alternative short text, or name (important in case the image cant be pictured), provides the path to where the image is saved (in the `images`-folder) and tells which one to choose (in case there are more than one images in the folder). Don't forget to choose the right filetype behind the `.`(png, jpg, etc.)
+     This code gives your image a descirbing alternative short text, or name (important in case the image cant be pictured),
+     provides the path to where the image is saved (in the `images`-folder)
+     and tells which one to choose (in case there are more than one images in the folder).
+     Don't forget to choose the right filetype behind the `.`(png, jpg, etc.)
 
 
 **Information about Markdown Language**
