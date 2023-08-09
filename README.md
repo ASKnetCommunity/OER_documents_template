@@ -5,8 +5,9 @@ This repository is a template for creating documents in the environment of GitHu
 For further information about GitHub visit: [ASKnet GitHub Guidance](https://asknet-open-training.github.io/Github-Guidance/)
 
 1. Clone the template repository
-   - Navigate to the repository 'OER_documents_template'
-   - Click on 'Use this template'
-   - choose 'Create a new repository'
+   - Navigate to the repository `OER_documents_template`
+   - Click on `Use this template`
+   - choose `Create a new repository`
+
 
    ![screenshot of choosing a template repository](/images/use_template.png)
