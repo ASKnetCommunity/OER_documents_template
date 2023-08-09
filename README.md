@@ -56,7 +56,11 @@ For further information about GitHub visit: [ASKnet GitHub Guidance](https://ask
      - This code gives your image a descirbing alternative short text, or name (important in case the image cant be pictured)
      - provides the path to where the image is saved (in the `images`-folder)
      - tells which one to choose (in case there are more than one images in the folder).
-     - **Don't forget to choose the right file type behind the `.`(png, jpg, etc.)**
+     - Don't forget to choose the right file type behind the `.`(png, jpg, etc.)
+
+
+**Note: Please use images with less file sizes, they should not go beyond 500 KB (= 0.5 MB).** @octocat :+1:
+
 
 
 ## Information about Markdown Language
