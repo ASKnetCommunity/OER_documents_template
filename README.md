@@ -59,7 +59,7 @@ For further information about GitHub visit: [ASKnet GitHub Guidance](https://ask
      - Don't forget to choose the right file type behind the `.`(png, jpg, etc.)
 
 
-**Note: Please use images with less file sizes, they should not go beyond 500 KB (= 0.5 MB).** +1:
+**Note: Please use images with less file sizes, they should not go beyond 500 KB (= 0.5 MB).** :+1:
 
 
 
