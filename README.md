@@ -10,7 +10,7 @@ For further information about GitHub visit: [ASKnet GitHub Guidance](https://ask
    - Choose `Create a new repository`
 
      
-   ![screenshot of choosing a template repository](/images/use_template.png)
+      ![screenshot of choosing a template repository](/images/use_template.png)
 
 
 ## 2. Create your repository
@@ -18,7 +18,7 @@ For further information about GitHub visit: [ASKnet GitHub Guidance](https://ask
   - Choose `Public` 
   - Click on `Create repository`
 
-   ![screenshot of creating the repository](/images/create_repository.jpg)
+      ![screenshot of creating the repository](/images/create_repository.jpg)
 
 
 ## 3. Create your document
