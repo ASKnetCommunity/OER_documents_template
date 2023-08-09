@@ -35,6 +35,7 @@ For further information about GitHub visit: [ASKnet GitHub Guidance](https://ask
 
 
 **Information about Markdown Language**
+
 "Markdown is a lightweight markup language for creating formatted text using a plain-text editor. John Gruber created Markdown in 2004 as a markup language that is appealing to human readers in its source code form. Markdown is widely used in blogging, instant messaging, online forums, collaborative software, documentation pages, and readme files." (cited from [Wikipedia](https://en.wikipedia.org/wiki/Markdown))
 
 This document is written by using markdown syntax. Clicking on the `Pen Icon` will open the Editing mode, which depict the markdown syntax.
