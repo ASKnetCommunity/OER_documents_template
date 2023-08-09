@@ -7,10 +7,10 @@ For further information about GitHub visit: [ASKnet GitHub Guidance](https://ask
 **1. Choose the template repository**
    - Navigate to the repository `OER_documents_template`
    - Click on `Use this template`
-   - choose `Create a new repository`<br>
+   - choose `Create a new repository`
 
+     
 ![screenshot of choosing a template repository](/images/use_template.png)
-<br>
 
 
 **2. Create your repository**
@@ -25,9 +25,26 @@ For further information about GitHub visit: [ASKnet GitHub Guidance](https://ask
    - Give your document a meaningful name (see following image, first row, pink highlighted)
    - Write your document (by using markdown syntax)
    - Save your document by clicking on the green `Commit changes...` - button (see following image, first row, right side)
+   - It is advisable to briefly describe in the text field for the `Commit message` (especially if you work in a collaborative environment) what you did.
+   - click the green `Commit changes` - button
+
 
 ![screenshot of creating the repository](/images/create_document.png)
 
+
+**4. Integragte images in your document**
+   - Navigate to the `images`-folder
+   - Click on `Add file` - dropdown
+   - Choose `Upload files`
+
+
+![screenshot of creating the repository](/images/upload_files.png)
+
+   - Drag and drop your images on the intended area
+   - the files for the upload will be displayed underneath that area
+   - click the green `Commit changes` - button
+
+![screenshot of creating the repository](/images/upload_files_2.png)
 
 
 **Information about Markdown Language**
