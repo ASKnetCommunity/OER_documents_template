@@ -37,7 +37,7 @@ For further information about GitHub visit: [ASKnet GitHub Guidance](https://ask
    - Click on `Add file` - dropdown
    - Choose `Upload files`
 
-
+   
    ![screenshot of uploading an image](/images/upload_files.png)
 
    - Drag and drop your images on the intended area
