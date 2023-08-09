@@ -9,8 +9,9 @@ For further information about GitHub visit: [ASKnet GitHub Guidance](https://ask
    - Click on `Use this template`
    - choose `Create a new repository`
 
-
+```
 ![screenshot of choosing a template repository](/images/use_template.png)
+```
 
 
 **2. Create your repository**
@@ -18,8 +19,9 @@ For further information about GitHub visit: [ASKnet GitHub Guidance](https://ask
   - Choose `Public` 
   - Click on `Create repository`
 
-
+```
 ![screenshot of creating the repository](/images/create_repository.jpg)
+```
 
 
 **3. Create your document**
@@ -27,8 +29,9 @@ For further information about GitHub visit: [ASKnet GitHub Guidance](https://ask
    - Write your document (by using markdown syntax)
    - Save your document by clicking on the green `Commit changes...` - button (see following image, first row, right side)
 
-
+```
 ![screenshot of creating the repository](/images/create_document.png)
+```
 
 
 **Information about Markdown Language**
