@@ -22,9 +22,9 @@ For further information about GitHub visit: [ASKnet GitHub Guidance](https://ask
 
 
 ## 3. Create your document
-   - Give your document a meaningful name (see following image, first row, pink highlighted)
+   - Give your document a meaningful name (following image, first row, pink highlighted)
    - Write your document (by using markdown syntax)
-   - Save your document by clicking on the green `Commit changes...` - button (see following image, first row, right side)
+   - Save your document by clicking on the green `Commit changes...` - button (following image, first row, right hand)
    - It is advisable to briefly describe in the text field for the `Commit message` (especially if you work in a collaborative environment) what you did
    - Click the green `Commit changes` - button
 
