@@ -38,7 +38,7 @@ For further information about GitHub visit: [ASKnet GitHub Guidance](https://ask
    - Choose `Upload files`
 
 
-![screenshot of uploading an image(/images/upload_files.png)
+![screenshot of uploading an image](/images/upload_files.png)
 
    - Drag and drop your images on the intended area
    - the files for the upload will be displayed underneath that area
