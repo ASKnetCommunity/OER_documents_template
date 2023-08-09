@@ -29,7 +29,7 @@ For further information about GitHub visit: [ASKnet GitHub Guidance](https://ask
    - Click the green `Commit changes` - button
 
 
-   ![screenshot of creating the repository](/images/create_document.png)
+     ![screenshot of creating the repository](/images/create_document.png)
 
 
 ## 4. Integragte images in your document
