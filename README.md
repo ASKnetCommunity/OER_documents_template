@@ -44,7 +44,8 @@ For further information about GitHub visit: [ASKnet GitHub Guidance](https://ask
    - the files for the upload will be displayed underneath that area
    - click the green `Commit changes` - button
 
-   ![screenshot of uploading an image part 2](/images/upload_files_2.png)
+
+     ![screenshot of uploading an image part 2](/images/upload_files_2.png)
 
 
    - Navigate back to your document
