@@ -38,13 +38,22 @@ For further information about GitHub visit: [ASKnet GitHub Guidance](https://ask
    - Choose `Upload files`
 
 
-![screenshot of creating the repository](/images/upload_files.png)
+![screenshot of uploading an image(/images/upload_files.png)
 
    - Drag and drop your images on the intended area
    - the files for the upload will be displayed underneath that area
    - click the green `Commit changes` - button
 
-![screenshot of creating the repository](/images/upload_files_2.png)
+![screenshot of uploading an image part 2](/images/upload_files_2.png)
+
+
+   - Navigate back to your document
+   - Navigate to the part of your text where the image should appear
+   - Put in following line of code
+     ```
+     ![describing text for your image](/images/file_name.jpg)
+     ```
+     This code gives your image a descirbing alternative short text, or name (important in case the image cant be pictured), provides the path to where the image is saved (in the `images`-folder) and tells which one to choose (in case there are more than one images in the folder). Don't forget to choose the right filetype behind the `.`(png, jpg, etc.)
 
 
 **Information about Markdown Language**
