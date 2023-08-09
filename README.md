@@ -10,7 +10,7 @@ For further information about GitHub visit: [ASKnet GitHub Guidance](https://ask
    - Choose `Create a new repository`
 
      
-![screenshot of choosing a template repository](/images/use_template.png)
+   ![screenshot of choosing a template repository](/images/use_template.png)
 
 
 ## 2. Create your repository
@@ -18,7 +18,7 @@ For further information about GitHub visit: [ASKnet GitHub Guidance](https://ask
   - Choose `Public` 
   - Click on `Create repository`
 
-![screenshot of creating the repository](/images/create_repository.jpg)
+   ![screenshot of creating the repository](/images/create_repository.jpg)
 
 
 ## 3. Create your document
@@ -29,7 +29,7 @@ For further information about GitHub visit: [ASKnet GitHub Guidance](https://ask
    - Click the green `Commit changes` - button
 
 
-![screenshot of creating the repository](/images/create_document.png)
+   ![screenshot of creating the repository](/images/create_document.png)
 
 
 ## 4. Integragte images in your document
@@ -38,13 +38,13 @@ For further information about GitHub visit: [ASKnet GitHub Guidance](https://ask
    - Choose `Upload files`
 
 
-![screenshot of uploading an image](/images/upload_files.png)
+   ![screenshot of uploading an image](/images/upload_files.png)
 
    - Drag and drop your images on the intended area
    - the files for the upload will be displayed underneath that area
    - click the green `Commit changes` - button
 
-![screenshot of uploading an image part 2](/images/upload_files_2.png)
+   ![screenshot of uploading an image part 2](/images/upload_files_2.png)
 
 
    - Navigate back to your document
@@ -59,7 +59,7 @@ For further information about GitHub visit: [ASKnet GitHub Guidance](https://ask
      - Don't forget to choose the right file type behind the `.`(png, jpg, etc.)
 
 
-**Note: Please use images with less file sizes, they should not go beyond 500 KB (= 0.5 MB).** @octocat :+1:
+**Note: Please use images with less file sizes, they should not go beyond 500 KB (= 0.5 MB).** +1:
 
 
 
