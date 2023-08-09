@@ -7,11 +7,12 @@ For further information about GitHub visit: [ASKnet GitHub Guidance](https://ask
 **1. Choose the template repository**
    - Navigate to the repository `OER_documents_template`
    - Click on `Use this template`
-   - choose `Create a new repository`
+   - choose `Create a new repository`<br>
 
 ```
 ![screenshot of choosing a template repository](/images/use_template.png)
 ```
+<br>
 
 
 **2. Create your repository**
