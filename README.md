@@ -49,7 +49,7 @@ For further information about GitHub visit: [ASKnet GitHub Guidance](https://ask
 
    - Navigate back to your document
    - Navigate to the part of your text where the image should appear
-   - Put in following line of code
+   - Copy and paste the following line of code:
      ```
      ![describing text for your image](/images/file_name.jpg)
      ```
