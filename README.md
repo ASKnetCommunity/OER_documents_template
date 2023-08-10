@@ -8,7 +8,6 @@ For further information about GitHub visit: [ASKnet GitHub Guidance](https://ask
    - Navigate to the repository `OER_documents_template`
    - Click on `Use this template`
    - Choose `Create a new repository`
-
      
       ![screenshot of choosing a template repository](/images/use_template.png)
 
