@@ -1,66 +1,27 @@
-# OER_documents_template
+# Your Headline
 
-This repository is a template for creating documents in the environment of GitHub. It explains especially how to upload and link images into your document. Use this template repository for creating your own documents and repositories. 
+Use this `README.md` document. 
 
-For further information about GitHub visit: [ASKnet GitHub Guidance](https://asknet-open-training.github.io/Github-Guidance/)
+## #ASKnet Logo (this is the second headline)
 
-## 1. Choose the template repository
-   - Navigate to the repository `OER_documents_template`
-   - Click on `Use this template`
-   - Choose `Create a new repository`
-     
-      ![screenshot of choosing a template repository](/images/use_template.png)
+![ASKnet Logo](/images/asknet-logo.png)
 
-
-## 2. Create your repository
-  - Give your repository a meaningful name
-  - Choose `Public` 
-  - Click on `Create repository`
-
-      ![screenshot of creating the repository](/images/create_repository.jpg)
-
-
-## 3. Create your document
-   - Give your document a meaningful name (following image, first row, pink highlighted)
-   - Write your document (by using markdown syntax) inside here and **delete the rest of this text**
-   - Save your document by clicking on the green `Commit changes...` - button (following image, first row, right hand)
-   - It is advisable to briefly describe in the text field for the `Commit message` (especially if you work in a collaborative environment) what you did
-   - Click the green `Commit changes` - button
-
-
-     ![screenshot of creating the repository](/images/create_document.png)
-
-
-## 4. Integragte images in your document
-   - Navigate to the `images`-folder
-   - Click on `Add file` - dropdown
-   - Choose `Upload files`
-
-   
-   ![screenshot of uploading an image](/images/upload_files.png)
-
-   - Drag and drop your images on the intended area
-   - the files for the upload will be displayed underneath that area
-   - click the green `Commit changes` - button
-
-
-     ![screenshot of uploading an image part 2](/images/upload_files_2.png)
-
-
-   - Navigate back to your document
-   - Navigate to the part of your text where the image should appear
-   - Copy and paste the following line of code:
-     ```
+  ```
      ![describing text for your image](/images/file_name.jpg)
-     ```
-     - This code gives your image a descirbing alternative short text, or name (important in case the image cant be pictured)
-     - provides the path to where the image is saved (in the `images`-folder)
-     - tells which one to choose (in case there are more than one images in the folder).
-     - Don't forget to choose the right file type behind the `.`(png, jpg, etc.)
+  ```
+
+- This code gives your image a descirbing alternative short text, or name (important in case the image cant be pictured)
+- provides the path to where the image is saved (in the `images`-folder)
+- tells which one to choose (in case there are more than one images in the folder).
+- Don't forget to choose the right file type behind the `.`(png, jpg, etc.)  
 
 
 **Note: Please use images with less file sizes, they should not go beyond 500 KB (= 0.5 MB).** :+1:
 
+**This is bold text**	
+_This text is italicized_
+
+For further information about GitHub visit: [ASKnet GitHub Guidance](https://asknet-open-training.github.io/Github-Guidance/) (this is how you embed links)
 
 
 ## Information about Markdown Language
