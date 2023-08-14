@@ -11,10 +11,10 @@ Please use different **hierarchy levels of headlines** to structure your documen
 
 ![ASKnet Logo](/images/asknet-logo.png)
 
+### Line of Code to integrate images  
   ```
      ![describing text for your image](/images/file_name.jpg)
-  ```
-
+  ```  
 - This code gives your image a descirbing alternative short text, or name (important in case the image cant be pictured)
 - provides the path to where the image is saved (in the `images`-folder)
 - tells which one to choose (in case there are more than one images in the folder).
