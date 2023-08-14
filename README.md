@@ -7,7 +7,16 @@ Use this `README.md` document.
 Please use different **hierarchy levels of headlines** to structure your document!  
 
 
-### #ASKnet Logo (this is the third level headline)
+### Some basic text styling (this is the third level headline): 
+
+**This is bold text**  
+
+_This text is italicized_  
+
+For further information about GitHub visit: [ASKnet GitHub Guidance](https://asknet-open-training.github.io/Github-Guidance/) (this is how you embed links)  
+
+
+### #ASKnet Logo 
 
 ![ASKnet Logo](/images/asknet-logo.png)
 
@@ -23,11 +32,7 @@ Please use different **hierarchy levels of headlines** to structure your documen
 
 **Note: Please use images with less file sizes, they should not go beyond 500 KB (= 0.5 MB).** :+1:
 
-**This is bold text**  
 
-_This text is italicized_  
-
-For further information about GitHub visit: [ASKnet GitHub Guidance](https://asknet-open-training.github.io/Github-Guidance/) (this is how you embed links)  
 
 
 ## Information about Markdown Language
