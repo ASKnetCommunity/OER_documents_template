@@ -1,8 +1,11 @@
-# Your Headline
+# Your first level Headline
 
 Use this `README.md` document. 
 
-## #ASKnet Logo (this is the second headline)
+## Second level headline
+Please use different **hierarchy levels of headlines** to structure your document
+
+### #ASKnet Logo (this is the third level headline)
 
 ![ASKnet Logo](/images/asknet-logo.png)
 
