@@ -2,6 +2,8 @@
 
 Use this `README.md` document. 
 
+[toc]
+
 ## Second level headline
 Please use different **hierarchy levels of headlines** to structure your document
 
