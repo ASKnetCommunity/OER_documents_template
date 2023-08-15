@@ -30,15 +30,9 @@ For further information about GitHub visit: [ASKnet GitHub Guidance](https://ask
 - Don't forget to choose the right file type behind the `.`(png, jpg, etc.)  
 
 
-**Note: Please use images with less file sizes, they should not go beyond 500 KB (= 0.5 MB).** :+1:
-
-
-
-
-## Information about Markdown Language
-
-"Markdown is a lightweight markup language for creating formatted text using a plain-text editor. John Gruber created Markdown in 2004 as a markup language that is appealing to human readers in its source code form. Markdown is widely used in blogging, instant messaging, online forums, collaborative software, documentation pages, and readme files." (cited from [Wikipedia](https://en.wikipedia.org/wiki/Markdown))
-
+**Note: Please use images with less file sizes, they should not go beyond 500 KB (= 0.5 MB).** :+1:  
+  
+  
 This document is written by using markdown syntax. Clicking on the `Pen Icon` will open the Editing mode, which depict the markdown syntax.
 
 For more informations about basic writing and formatting syntax please visit [GitHub: formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
