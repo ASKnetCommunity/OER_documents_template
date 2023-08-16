@@ -1,6 +1,6 @@
 # Title of your OER Project
 
-Use this `README.md` document as an overview for your Open Educational Resource (OER). The headlines / structure of this document should serve you as a suggestion. 
+Use this `README.md` document to describe your Open Educational Resource (OER). The headlines / structure of this document should serve you as a suggestion. It is written in markdown syntax. 
 
 ## Description of your OER
 Please use different **hierarchy levels of headlines** to structure your document!
