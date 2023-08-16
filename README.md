@@ -36,9 +36,9 @@ Some random text.
 Links (e.g. to videos), references, etc.
 
 ## Additonal information for this template
-Find the related Wiki for this template [here](https://github.com/ASKnetCommunity/OER_documents_template/wiki)
+Find the related Wiki for this template [here](https://github.com/ASKnetCommunity/OER_documents_template/wiki) (this is how you embed links)  
 
-For further information about GitHub visit: [ASKnet GitHub Guidance](https://asknet-open-training.github.io/Github-Guidance/) (this is how you embed links)  
+For further information about GitHub visit: [ASKnet GitHub Guidance](https://asknet-open-training.github.io/Github-Guidance/) 
 
 This document is written by using markdown syntax. Clicking on the `Pen Icon` will open the Editing mode, which depict the markdown syntax.
 
