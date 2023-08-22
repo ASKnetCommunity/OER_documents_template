@@ -8,16 +8,6 @@ Please use different **hierarchy levels of headlines** to structure your documen
 ## Learning Objective 
 Some random text.
 
-## Tools & Materials
-- item one
-- item two
-- item three 
-
-## Step-by-Step Guide / Instructions 
-### Step one
-Some random text.
-### Step two
-Some random text.
 
 ## #ASKnet Logo 
 
@@ -29,11 +19,6 @@ Some random text.
   ```  
 **Note: Please use images with less file sizes, they should not go beyond 500 KB (= 0.5 MB).** :+1:  
 
-## Participants
-Some random text.
-
-## Credits, References and Resources  
-Links (e.g. to videos), references, etc.
 
 ## Additonal information for this template
 Find the related Wiki for this template [here](https://github.com/ASKnetCommunity/OER_documents_template/wiki) (this is how you embed links)  
