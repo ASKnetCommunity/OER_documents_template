@@ -17,7 +17,9 @@ Some random text.
   ```
      ![describing text for your image](/images/file_name.jpg)
   ```  
-**Note: Please use images with less file sizes, they should not go beyond 500 KB (= 0.5 MB).** :+1:  
+**Note:**  
+**- Please use images with less file sizes, they should not go beyond 500 KB (= 0.5 MB).** :+1:  
+**- Never use backspaces in your file names! Use `_` or `-` instead to seperate words.**
 
 
 ## Additonal information for this template
