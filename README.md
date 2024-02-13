@@ -22,7 +22,7 @@ Some random text.
 **- Never use backspaces in your file names! Use `_` or `-` instead to seperate words.**
 
 
-## Additonal information for this template
+## Additional information for this template
 Find the related Wiki for this template [here](https://github.com/ASKnetCommunity/OER_documents_template/wiki) (this is how you embed links)  
 
 For further information about GitHub visit: [ASKnet GitHub Guidance](https://asknet-open-training.github.io/Github-Guidance/) 
