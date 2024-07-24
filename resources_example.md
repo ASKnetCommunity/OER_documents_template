@@ -2,9 +2,9 @@
 
 ## Step-by-Step Guide / Instructions 
 ### Step one
-Some random text.
+Outline the first step of the process
 ### Step two
-Some random text.
+Outline every step in the process in the same way than the first step
 
 ## Tools & Materials
 - item one
