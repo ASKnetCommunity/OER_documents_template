@@ -62,3 +62,8 @@ Markdown doesn't always add line breaks. Use __two spaces__ before the line brea
   - [x] Drink some water
   - [ ] **Click my box** and have a look at the source code!
      
+## Embeded Link
+
+[ASKnet Website](https://asknet.community/)
+
+`[link text](https:// "title")`
