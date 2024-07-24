@@ -60,12 +60,11 @@ Markdown doesn't always add line breaks. Use __two spaces__ before the line brea
   - [x] Buy some salad
   - [ ] Brush teeth
   - [x] Drink some water
-  - [x] Have a look at the source code and mark this ToDo with a x
+  - [ ] Have a look at the source code and mark this ToDo with a x
      
 ## Embeded Link
 
-[ASKnet Website](https://asknet.community/)
-
+[ASKnet Website](https://asknet.community/)  
 `[link text](https:// "title")`
 
 ## Emoji
