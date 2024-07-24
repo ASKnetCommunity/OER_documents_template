@@ -6,21 +6,18 @@ Use this `README.md` document to describe your Open Educational Resource (OER). 
 Please use different **hierarchy levels of headlines** to structure your document!
 
 ## Learning Objective 
-Some random text.
+Define what the learner will be able to do after completing this training.
 
+For example: --"By the end of this webinar, participants will be able to explain the key principles of effective written communication and apply editing techniques to improve clarity and engagement."-- 
 
-## #ASKnet Logo 
+## Table of Content
+Structure your training, lesson, or OER into different segments using headings and subheadings. Include these segments in your table of contents. The table of contents provides an organized overview, allowing readers to quickly find and navigate to the sections of interest.
 
-![ASKnet Logo](/images/asknet-logo.png)
-
-### Line of Code to integrate images  
-  ```
-     ![describing text for your image](/images/file_name.jpg)
-  ```  
-**Note:**  
-**- Please use images with less file sizes, they should not go beyond 500 KB (= 0.5 MB).** :+1:  
-**- Never use backspaces in your file names! Use `_` or `-` instead to seperate words.**
-
++ [Resource Example](https://github.com/ASKnetCommunity/OER_documents_template/blob/main/resources_example.md)
+    + [Tools & Materials](https://github.com/ASKnetCommunity/OER_documents_template/blob/main/resources_example.md#tools--materials)
+    + [Step-by-Step Guide / Instructions](https://github.com/ASKnetCommunity/OER_documents_template/blob/main/resources_example.md#step-by-step-guide--instructions)
++ [License](https://github.com/ASKnetCommunity/OER_documents_template/blob/main/LICENSE)
++ [Wiki] (https://github.com/ASKnetCommunity/OER_documents_template/wiki/Creating-a-document-with-images-on-GitHub)
 
 ## Additional information for this template
 Find the related Wiki for this template [here](https://github.com/ASKnetCommunity/OER_documents_template/wiki) (this is how you embed links)  
@@ -31,3 +28,13 @@ This document is written by using markdown syntax. Clicking on the `Pen Icon` wi
 
 For more informations about basic writing and formatting syntax please visit [GitHub: formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
+## #ASKnet Logo 
+![ASKnet Logo](/images/asknet-logo.png) 
+
+### Line of Code to integrate images  
+  ```
+     ![describing text for your image](/images/file_name.jpg)
+  ```  
+**Note:**  
+**- Please use images with less file sizes, they should not go beyond 500 KB (= 0.5 MB).** :+1:  
+**- Never use backspaces in your file names! Use `_` or `-` instead to seperate words.**
