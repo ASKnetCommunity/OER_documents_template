@@ -68,19 +68,6 @@ Markdown doesn't always add line breaks. Use __two spaces__ before the line brea
 
 `[link text](https:// "title")`
 
-## Alerts 
-:::success
-Yes :tada:
-:::
-
-:::info
-This is a message :mega:
-:::
-
-:::warning
-Watch out :zap:
-:::
-
-:::danger
-Oh No! :fire:
-:::
+## Emoji
+You can type any emoji like this :smile: :smiley: :cry: :wink:
+> See full emoji list [here](https://www.webfx.com/tools/emoji-cheat-sheet/).
