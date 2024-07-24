@@ -31,9 +31,6 @@ _This is italic text_
 ++underlined text++  
 `++underlined text++`
 
-==Marked text==  
-`==Marked text==`
-
 ~~Deleted text~~  
 `~~Deleted text~~`
 
