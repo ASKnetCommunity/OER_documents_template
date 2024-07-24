@@ -27,8 +27,8 @@ _This is italic text_
 *This is italic text*
 _This is italic text_
 ```
-~~Deleted text~~  
-`~~Deleted text~~`
+~~crossed out text~~  
+`~~crossed out text~~`
 
 ### Line Breaks
 Markdown doesn't always add line breaks. Use __two spaces__ before the line break to start the next line. 
