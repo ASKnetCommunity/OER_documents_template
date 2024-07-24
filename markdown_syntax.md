@@ -62,6 +62,11 @@ Markdown doesn't always add line breaks. Use __two spaces__ before the line brea
   - [x] Drink some water
   - [ ] Have a look at the source code and mark this ToDo with a x
      
+```
+- [ ] ToDos
+  - [x] Buy some salad
+```
+
 ## Embeded Link
 
 [ASKnet Website](https://asknet.community/)  
@@ -69,4 +74,5 @@ Markdown doesn't always add line breaks. Use __two spaces__ before the line brea
 
 ## Emoji
 You can type any emoji like this :smile: :smiley: :cry: :wink:
+`:smile: :smiley: :cry: :wink:`
 > See full emoji list [here](https://www.webfx.com/tools/emoji-cheat-sheet/).
