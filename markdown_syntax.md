@@ -60,7 +60,7 @@ Markdown doesn't always add line breaks. Use __two spaces__ before the line brea
   - [x] Buy some salad
   - [ ] Brush teeth
   - [x] Drink some water
-  - [ ] **Click my box** and have a look at the source code!
+  - [x] Have a look at the source code and mark this ToDo with a x
      
 ## Embeded Link
 
