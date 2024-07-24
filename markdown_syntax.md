@@ -27,10 +27,6 @@ _This is italic text_
 *This is italic text*
 _This is italic text_
 ```
-
-++underlined text++  
-`++underlined text++`
-
 ~~Deleted text~~  
 `~~Deleted text~~`
 
