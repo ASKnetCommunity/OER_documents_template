@@ -28,17 +28,17 @@ _This is italic text_
 _This is italic text_
 ```
 
-++underlined text++
+++underlined text++  
 `++underlined text++`
 
-==Marked text==
+==Marked text==  
 `==Marked text==`
 
-~~Deleted text~~
+~~Deleted text~~  
 `~~Deleted text~~`
 
 ### Line Breaks
-
+Markdown doesn't always add line breaks. Use __two spaces__ before the line break to start the next line. 
 
 ## Lists
 ### Ordered List
