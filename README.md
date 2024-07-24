@@ -17,7 +17,7 @@ Structure your training, lesson, or OER into different segments using headings a
     + [Tools & Materials](https://github.com/ASKnetCommunity/OER_documents_template/blob/main/resources_example.md#tools--materials)
     + [Step-by-Step Guide / Instructions](https://github.com/ASKnetCommunity/OER_documents_template/blob/main/resources_example.md#step-by-step-guide--instructions)
 + [License](https://github.com/ASKnetCommunity/OER_documents_template/blob/main/LICENSE)
-+ [Wiki] (https://github.com/ASKnetCommunity/OER_documents_template/wiki/Creating-a-document-with-images-on-GitHub)
++ [Wiki](https://github.com/ASKnetCommunity/OER_documents_template/wiki/Creating-a-document-with-images-on-GitHub)
 
 ## Additional information for this template
 Find the related Wiki for this template [here](https://github.com/ASKnetCommunity/OER_documents_template/wiki) (this is how you embed links)  
