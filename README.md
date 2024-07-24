@@ -8,7 +8,7 @@ Please use different **hierarchy levels of headlines** to structure your documen
 ## Learning Objective 
 Define what the learner will be able to do after completing this training.
 
-For example: --"By the end of this webinar, participants will be able to explain the key principles of effective written communication and apply editing techniques to improve clarity and engagement."-- 
+For example: _"By the end of this webinar, participants will be able to explain the key principles of effective written communication and apply editing techniques to improve clarity and engagement."_
 
 ## Table of Content
 Structure your training, lesson, or OER into different segments using headings and subheadings. Include these segments in your table of contents. The table of contents provides an organized overview, allowing readers to quickly find and navigate to the sections of interest.
