@@ -20,8 +20,9 @@ List all tools and materials needed item by item:
 - Tool z
 
 ## Participants & Trainers
-List the number of trainers needed 
-How many participants - maximum
+List the number of trainers needed and whats their task.  
+How many participants can max. attend the training.
 
 ## Credits, References and Resources  
 Credit the sources where relevant, add links (e.g. to videos), references, etc.
+Please use embedded links to refer to external sources.
