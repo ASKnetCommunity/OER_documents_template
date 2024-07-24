@@ -67,3 +67,20 @@ Markdown doesn't always add line breaks. Use __two spaces__ before the line brea
 [ASKnet Website](https://asknet.community/)
 
 `[link text](https:// "title")`
+
+## Alerts 
+:::success
+Yes :tada:
+:::
+
+:::info
+This is a message :mega:
+:::
+
+:::warning
+Watch out :zap:
+:::
+
+:::danger
+Oh No! :fire:
+:::
