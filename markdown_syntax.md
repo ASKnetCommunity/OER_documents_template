@@ -62,6 +62,7 @@ Markdown doesn't always add line breaks. Use __two spaces__ before the line brea
 
 ## Embeded Link
 
+You can embed images by giving them a description followed by the URL of the image itself.  
 [ASKnet Website](https://asknet.community/)  
 `[link text](https:// "title")`
 
