@@ -65,6 +65,11 @@ Markdown doesn't always add line breaks. Use __two spaces__ before the line brea
 [ASKnet Website](https://asknet.community/)  
 `[link text](https:// "title")`
 
+## Images
+
+![ASKnet Logo](https://raw.githubusercontent.com/ASKnetCommunity/OER_documents_template/main/images/asknet-logo.png)
+`![description](URL)`
+
 ## Emoji
 You can type any emoji like this :smile: :smiley: :cry: :wink:
 `:smile: :smiley: :cry: :wink:`
