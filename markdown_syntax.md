@@ -70,7 +70,17 @@ Markdown doesn't always add line breaks. Use __two spaces__ before the line brea
 ![ASKnet Logo](https://raw.githubusercontent.com/ASKnetCommunity/OER_documents_template/main/images/asknet-logo.png)  
 `![description](URL)`
 
+## Code Snippets
+
+You can highlight code snippets or anything else by using the: ` `` `  
+Three in a row allows you to select a block instead of a line:  
+```
+```higlighted text```
+```
+Using these code snippets on GitHub, for example, allows you to easily copy the content.
+
 ## Emoji
+
 You can type any emoji like this :smile: :smiley: :cry: :wink:
 `:smile: :smiley: :cry: :wink:`
 > See full emoji list [here](https://www.webfx.com/tools/emoji-cheat-sheet/).
