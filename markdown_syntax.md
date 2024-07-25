@@ -90,7 +90,22 @@ Three in a row allows you to select a block instead of a line:
 ```
 ```higlighted text```
 ```
-Using these code snippets on GitHub, for example, allows you to easily copy the content.
+Using these code snippets on GitHub, for example, allows you to easily copy the content.  
+
+## Tables
+
+The colon in the second line controls the alignment of the text. In this case it is right justified, without a colon the text is left justified by default, two colons - left and right - centre the content. 
+| this is a Table | second column |
+| - | -: |
+| first line | yes| 
+| second line | hello |
+
+```
+| this is a Table | second column |
+| - | -: |
+| first line | yes| 
+| second line | hello |
+```
 
 ## Emoji
 
