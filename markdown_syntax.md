@@ -38,6 +38,10 @@ Markdown doesn't always add line breaks. Use __two spaces__ before the line brea
 1. Item one
 2. Item two
 3. Item three
+'''
+1. Item one
+2. Item two
+```
 
 ### Unorderd List
 + Create a list by starting a line with `+`, `-`, or `*`
@@ -47,6 +51,14 @@ Markdown doesn't always add line breaks. Use __two spaces__ before the line brea
     + any markdown Bullet Points 
     - inside your list
 + Very easy!
+
+```
++ Sub-lists are made by indenting 2 spaces (or via tab key):
+  - Marker character change forces new list start:
+    * you can use
+    + any markdown Bullet Points 
+    - inside your list
+```
 
 ### ToDo List
 - [ ] ToDos
