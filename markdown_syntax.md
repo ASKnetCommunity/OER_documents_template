@@ -38,7 +38,7 @@ Markdown doesn't always add line breaks. Use __two spaces__ before the line brea
 1. Item one
 2. Item two
 3. Item three
-'''
+```
 1. Item one
 2. Item two
 ```
