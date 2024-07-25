@@ -11,13 +11,13 @@ Define what the learner will be able to do after completing this training.
 For example: _"By the end of this webinar, participants will be able to explain the key principles of effective written communication and apply editing techniques to improve clarity and engagement."_
 
 ## Table of Content
-Structure your training, lesson, or OER into different segments using headings and subheadings. Include these segments in your table of contents. The table of contents provides an organized overview, allowing readers to quickly find and navigate to the sections of interest.
+Structure your training, lesson, or OER into different segments using headings and subheadings. Include these segments in your table of contents. The table of contents provides an organised overview, allowing readers to quickly find and navigate to the sections of interest.
 
 + [Resource Example](https://github.com/ASKnetCommunity/OER_documents_template/blob/main/resources_example.md)
     + [Tools & Materials](https://github.com/ASKnetCommunity/OER_documents_template/blob/main/resources_example.md#tools--materials)
     + [Step-by-Step Guide / Instructions](https://github.com/ASKnetCommunity/OER_documents_template/blob/main/resources_example.md#step-by-step-guide--instructions)
 + [Markdown Syntax](https://github.com/ASKnetCommunity/OER_documents_template/blob/main/markdown_syntax.md#markdown-syntax) 
-+ [License](https://github.com/ASKnetCommunity/OER_documents_template/blob/main/LICENSE)
++ [Licence](https://github.com/ASKnetCommunity/OER_documents_template/blob/main/LICENSE)
 + [Wiki](https://github.com/ASKnetCommunity/OER_documents_template/wiki/Creating-a-document-with-images-on-GitHub)
 
 ## Additional information for this template
@@ -27,7 +27,7 @@ For further information about GitHub visit: [ASKnet GitHub Guidance](https://ask
 
 This document is written by using markdown syntax. Clicking on the `Pen Icon` will open the Editing mode, which depict the markdown syntax.
 
-For more informations about basic writing and formatting syntax please visit [GitHub: formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+For more information about basic writing and formatting syntax please visit [GitHub: formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ## #ASKnet Logo 
 ![ASKnet Logo](/images/asknet-logo.png) 
